@@ -1,4 +1,4 @@
 # Simon Says Game
-Home Task @ Matrix
-Meishar Tal
+Home Task @ Matrix <br>
+Meishar Tal <br>
 Feb/2024
